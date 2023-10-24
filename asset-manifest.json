@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Leadrat-Assignment/static/css/main.a9c7b6f9.css",
+    "main.js": "/Leadrat-Assignment/static/js/main.5f61e747.js",
+    "static/js/787.d3befce1.chunk.js": "/Leadrat-Assignment/static/js/787.d3befce1.chunk.js",
+    "index.html": "/Leadrat-Assignment/index.html",
+    "main.a9c7b6f9.css.map": "/Leadrat-Assignment/static/css/main.a9c7b6f9.css.map",
+    "main.5f61e747.js.map": "/Leadrat-Assignment/static/js/main.5f61e747.js.map",
+    "787.d3befce1.chunk.js.map": "/Leadrat-Assignment/static/js/787.d3befce1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a9c7b6f9.css",
+    "static/js/main.5f61e747.js"
+  ]
+}
